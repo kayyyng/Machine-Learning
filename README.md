@@ -1,5 +1,5 @@
 # Machine-Learning
-The repository enclosed different machine learning models I have come across throughout my study in Decision Analytics. The models are divided into two categories: 
+The repository enclosed different machine learning models I have constructed throughout my study in Decision Analytics. The models are divided into two categories: 
 
 - models using scikit-learn; and 
 - models built from scratch
